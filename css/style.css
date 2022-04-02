@@ -1,0 +1,28 @@
+* {
+    background-color: #333333;
+}
+
+.foodlinks {    
+    font-size: 25px;
+}
+
+.centering {
+    text-align: center;
+}
+
+.nighttoggle {
+    background-color: #ffffff;
+}
+
+.yummy {
+    height: auto;
+    width: 500px;
+}
+
+
+
+.titles {
+    text-align: center;
+    font-size: 50px;
+    color: #ffffff;
+}
